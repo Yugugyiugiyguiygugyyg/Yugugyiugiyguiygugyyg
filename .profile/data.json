@@ -1,0 +1,248 @@
+{
+ "key": "c10df4c7",
+ "stars": 0,
+ "contributions": 34,
+ "repos": 10,
+ "followers": 2,
+ "languages": [
+  [
+   "Python",
+   28718
+  ],
+  [
+   "C++",
+   20117
+  ],
+  [
+   "F#",
+   5100
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 19,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 1
+ },
+ "pins": [
+  {
+   "name": "alt-tab-animator",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/alt-tab-animator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_device_realme_bale",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/android_device_realme_bale",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "bale_manifest",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/bale_manifest",
+   "text": "Manifest for Realme GT Neo6 custom rom's evox 12 a17",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "OTA",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/OTA",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Yugugyiugiyguiygugyyg",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/Yugugyiugiyguiygugyyg",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "site",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/site",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "android_device_realme_bale",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/android_device_realme_bale",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "bale_manifest",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/bale_manifest",
+   "text": "Manifest for Realme GT Neo6 custom rom's evox 12 a17",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "alt-tab-animator",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/alt-tab-animator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "Evobuilder",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/Evobuilder",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "OTA",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/OTA",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "android_hardware_oplus_old",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/android_hardware_oplus_old",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_device_realme_RMX3852_old",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/android_device_realme_RMX3852_old",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "android_device_realme_sm8635-common_old",
+   "url": "https://github.com/Yugugyiugiyguiygugyyg/android_device_realme_sm8635-common_old",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  }
+ ]
+}
