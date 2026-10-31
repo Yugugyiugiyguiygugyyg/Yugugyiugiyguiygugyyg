@@ -1,10 +1,18 @@
 {
- "key": "ac31c376",
+ "key": "661545a0",
  "stars": 0,
  "contributions": 34,
  "repos": 10,
  "followers": 2,
  "languages": [
+  [
+   "HTML",
+   119159
+  ],
+  [
+   "CSS",
+   61487
+  ],
   [
    "Python",
    28718
@@ -12,6 +20,10 @@
   [
    "C++",
    20117
+  ],
+  [
+   "JavaScript",
+   18213
   ],
   [
    "F#",
@@ -122,9 +134,13 @@
    {
     "c": 0,
     "day": 30,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 31,
+    "today": true
+   }
   ]
  ],
  "streak": {
@@ -183,7 +199,7 @@
    "name": "site",
    "url": "https://github.com/Yugugyiugiyguiygugyyg/site",
    "text": "",
-   "fork": true,
+   "fork": false,
    "stars": 0,
    "language": "HTML",
    "topics": []
